@@ -1,6 +1,9 @@
 # Libft Results 125/100
 
+Programming Languate/Tools: C (c99 standard)
+
 Description: Creation of a Static library in the C programming language
+
 Skills Learned: Unix Logic, Imperative Programming, Rigor, Algorithms & AI
 
 # Marks
