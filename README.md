@@ -1,5 +1,8 @@
 # Libft Results 125/100
 
+Description: Creation of a Static library in the C programming language
+Skills Learned: Unix Logic, Imperative Programming, Rigor, Algorithms & AI
+
 # Marks
 ![Screen Shot 2022-03-22 at 14 30 23](https://user-images.githubusercontent.com/9160772/159405520-35297066-28c5-4499-b115-9ef56e3620ab.png)
 
